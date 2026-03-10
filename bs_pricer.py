@@ -127,13 +127,14 @@ graph_vega = px.line(x = spot_range, y = vega_series, labels = {"x":"Spot", "y":
 graph_theta = px.line(x = spot_range, y = theta_series, labels = {"x":"Spot", "y":"Theta"}, title = "Theta of the option", template = "plotly_dark", height = 600)
 graph_rho = px.line(x = spot_range, y = rho_series, labels = {"x":"Spot", "y":"Rho"}, title = "Rho of the option", template = "plotly_dark", height = 600)
 
-st.plotly_chart(graph_delta, width = "strecth")
-st.plotly_chart(graph_gamma, width = "strecth")
-st.plotly_chart(graph_vega, width = "strecth")
-st.plotly_chart(graph_theta, width = "strecth") 
-st.plotly_chart(graph_rho, width = "strecth") 
+st.plotly_chart(graph_delta, width = "stretch")
+st.plotly_chart(graph_gamma, width = "stretch")
+st.plotly_chart(graph_vega, width = "stretch")
+st.plotly_chart(graph_theta, width = "stretch") 
+st.plotly_chart(graph_rho, width = "stretch") 
     
 
         
+
 
 
