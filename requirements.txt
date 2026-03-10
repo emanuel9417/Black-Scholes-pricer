@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar 10 15:55:27 2026
+
+@author: manu0
+"""
+
+streamlit
+numpy
+pandas
+plotly
+scipy
