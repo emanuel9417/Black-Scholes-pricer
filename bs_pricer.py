@@ -13,7 +13,7 @@ from scipy.stats import norm
 
 ######################################################################
 
-st.title("Black-Scholes Pricer")
+st.title("Black-Scholes-Merton Pricer")
 
 st.subheader("Input data")
 col1, col2 = st.columns(2)
@@ -135,6 +135,7 @@ st.plotly_chart(graph_rho, width = "stretch")
     
 
         
+
 
 
 
