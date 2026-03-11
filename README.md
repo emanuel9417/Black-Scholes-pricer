@@ -1,11 +1,11 @@
 # Black-Scholes-Merton Option Pricing & Greeks Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](emanuel9417-black-scholes-merton-pricer)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emanuel9417-black-scholes-merton-pricer-a5xaep7bhkp3yqs7pgrfgq.streamlit.app/)
 
 ## Overview
 An interactive financial tool developed to price European options using the **Black-Scholes-Merton model**. The application provides real-time sensitivity analysis (Greeks) and verifies the mathematical consistency of the model through Put-Call Parity.
 
-**Live Application:** [View Web App](emanuel9417-black-scholes-merton-pricer)
+**Live Application:** [View Web App](https://emanuel9417-black-scholes-merton-pricer-a5xaep7bhkp3yqs7pgrfgq.streamlit.app/)
 
 ## Key Features
 * **Option Pricing**: Accurate calculation of Call and Put premiums.
